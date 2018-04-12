@@ -1,0 +1,10 @@
+Package: Glabsoilphys
+Title: Useful functions for soil physics for water retention and hydraulic conductivity
+Version: 0.0.0.9000
+Authors@R: c(person("Nate", "Bogie", email = "nbogie@ucmerced.edu", role = c( "cre","aut")),person("Teamrat", "Ghezzehei", email = "taghezzehei@ucmerced.edu", role = c("aut")))
+Description: Multiple functions for soil physics in one place. Teamrat wrote the functions, Nate wrote and documented the R package. A significant amount of documentation is still needed.
+Depends: R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
